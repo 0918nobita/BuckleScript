@@ -12,6 +12,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "bs-platform": "^4.0.18"
+    "bs-platform": "^4.0.18",
+    "parcel-bundler": "^1.11.0"
   }
 }
