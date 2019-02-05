@@ -2,6 +2,7 @@
   "name": "example",
   "version": "0.1.0",
   "scripts": {
+    "dev": "npm-run-all --parallel serve watch",
     "serve": "parcel src/index.html",
     "clean": "bsb -clean-world",
     "build": "bsb -make-world",
