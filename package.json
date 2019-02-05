@@ -5,5 +5,8 @@
   "repository": "git@github.com:0918nobita/BuckleScript.git",
   "author": "0918nobita <nobita.0918@gmail.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "bs-platform": "^4.0.18"
+  }
 }
