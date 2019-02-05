@@ -1,4 +1,5 @@
 .cache
+dist
 *.bs.js
 
 *.exe
